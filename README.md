@@ -2,12 +2,18 @@
 
 <!-- Cabeçalhos -->
 
-# Título 1 -> <h1>Título 1</h1>
-## Título 2 
-### Titulo 3
-#### Título 4 
-##### Título 5 
-###### Título 6 
+
+*italico ou _italico_
+
+**negreito ou __negrito__
+
+___negrito e italico___
+
+***negrito e italico***
+
+- lista 1 
+- lista 2 
+  - Sublista
 
 
 <!--
