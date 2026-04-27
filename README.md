@@ -21,7 +21,7 @@ ___negrito e italico___
 
 Mudando de carreira pra ir no show delas 💜
 
-![💜](https://recreio.com.br/wp-content/uploads/2025/07/twice-this-is-for_capa.jpg)
+!(https://recreio.com.br/wp-content/uploads/2025/07/twice-this-is-for_capa.jpg)
 
 <!--
 **victormiip/victormiip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
