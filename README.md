@@ -7,9 +7,9 @@ E estou nos primeiros passos para mesclar o meu diploma com a **área de tecnolo
 
 No momento estou aprendendo:
 - git e github 
-- UX/UI desing 
+- UX/UI design
 
-> texto de citações como funciona isso ? oq seria um texto de citação ? 
+> Guess the memories never fade away,so many dreams we've been chasing together ? 
 
 
 | Primeiro amor  | Segundo amor  |
