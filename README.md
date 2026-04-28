@@ -9,7 +9,7 @@ No momento estou aprendendo:
 - git e github 
 - UX/UI design
 
-> Guess the memories never fade away,so many dreams we've been chasing together ? 
+> Guess the memories never fade away,so many dreams we've been chasing together 
 
 
 | Primeiro amor  | Segundo amor  |
